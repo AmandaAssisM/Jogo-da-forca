@@ -8,16 +8,16 @@
 
 <img src="https://user-images.githubusercontent.com/92966154/141891450-56b7bac9-1b6d-43b3-bb46-7c5928596ba0.png" alt="diagrama" width="600">
 
-## Pré-requisitos
+## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Python 3.6 +
 
-## Instalando
+## 🚀 Instalando
 
 Este projeto foi constuído com bibliotecas nativas.
 
-## Usando 
+## ☕ Usando 
 
 Para usar siga estas etapas:
 
