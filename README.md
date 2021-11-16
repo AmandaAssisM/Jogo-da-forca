@@ -6,7 +6,7 @@
 
 ## Diagrama
 
-<img src="https://user-images.githubusercontent.com/92966154/141891450-56b7bac9-1b6d-43b3-bb46-7c5928596ba0.png" alt="diagrama" width="600">
+<img src="https://user-images.githubusercontent.com/92966154/142063792-f6a916e7-a684-471d-a6dd-4ee090f93356.png" alt="diagrama" width="600">
 
 ## 💻 Pré-requisitos
 
